@@ -1,0 +1,4 @@
+useContext:
+  - To send the data from parent to child (ignoring inbetween child)
+
+key = fd8e9906
